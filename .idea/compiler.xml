@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/../Downloads" includeSubdirectories="false" />
+      <directory url="file://$PROJECT_DIR$/tema2" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/venv" includeSubdirectories="true" />
+    </excludeFromCompile>
+  </component>
+</project>
